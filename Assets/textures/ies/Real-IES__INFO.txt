@@ -1,0 +1,4 @@
+These free IES files were kindly provided by PlaySys, created for Corona using their Real-IES software. You may use these IES files in your projects, commercial or otherwise, but may not redistribute the IES files themselves.
+
+For more information on Real-IES and how you can design your own custom IES light profiles, visit:
+http://www.real-ies.com
