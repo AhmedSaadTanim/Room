@@ -9,4 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Room 1.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0561df6b5e1f64b4f94699a5f82e75c6, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 46f36115c0fced04995dc0fe69914031, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 22ae70f43c40f89468e70bbf3bb3f6d6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 51684a3dea68c80499f681c619b8e3e4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e68a9dac973360148a2fd2526ee55811, type: 2}
