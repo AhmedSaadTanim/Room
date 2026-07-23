@@ -302,3 +302,119 @@ Received Import Request.
 Start importing Assets/textures/Fabric023/Fabric023_4K-JPG_Roughness.jpg using Guid(ed82cfa5ebcb4b548b2d60122c514b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '398a74dd243dfa61b9756526e54376da') in 0.0349108 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=974822901659cc34af442f3951e046b3 DependenciesID=8eca3d6009d292cb0444d1dfe07c7a1c StaticDependenciesID=4fdc2afb4e1ed0bc073c1cf8166bcbc5 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 259.685292 seconds.
+  path: Assets/textures/ies/Real-IES_downlight_intense_pure_white_led.ies
+  importAddress: Guid(7b1fabe4419d31e4e8cb8c04825cfd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/ies/Real-IES_downlight_intense_pure_white_led.ies using Guid(7b1fabe4419d31e4e8cb8c04825cfd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '05c1b280d1d0bea6ad7cb8dca582d5c4') in 0.2984281 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10299e60e278d397a4c378ad0570403f DependenciesID=52b1fe2af136a680755162f6ec6f6135 StaticDependenciesID=f7040ed2c24a82f64b550355b788b935 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/textures/ies/Real-IES_intemediate_blurred.ies
+  importAddress: Guid(91dc494b97c84244eb1d3c77170ca00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/ies/Real-IES_intemediate_blurred.ies using Guid(91dc494b97c84244eb1d3c77170ca00c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '183b8ed6c3c44c1a08ebf2e09a791886') in 0.0194226 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=77a3b0fa9c42070f685471aeb98b6fc8 DependenciesID=9d5cedaae70a35485133d0077ceaacad StaticDependenciesID=b01026bc185c2acab6379bea17f25811 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/textures/ies/Real-IES_narrow_bright.ies
+  importAddress: Guid(718cf4282e5b15747a9cfa70d8573448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/ies/Real-IES_narrow_bright.ies using Guid(718cf4282e5b15747a9cfa70d8573448) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3dc37594121068a8b5d0150076ca3a20') in 0.0340719 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e9b2fac98a03457c325222671ff800f8 DependenciesID=bd21d2ccba03001aafae84914c3e184f StaticDependenciesID=d694600f0530a670710413aaa17dfcef 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/textures/ies/Real-IES_narrow_center.ies
+  importAddress: Guid(d8d8775358ca9c340a1ea1b9601af440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/ies/Real-IES_narrow_center.ies using Guid(d8d8775358ca9c340a1ea1b9601af440) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '87cdca61b4ac932e61c8a8003aced176') in 0.0364441 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=04351bcd453d6784bd5231a90f04d279 DependenciesID=c4cd9b1ae1adc52e3b7b496563be4155 StaticDependenciesID=5924549b9ab54e58d8296c1619f465e4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/textures/ies/Real-IES_traditional_bulb_light.ies
+  importAddress: Guid(b92f175e530102d49bc7ed92c2c7cf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/ies/Real-IES_traditional_bulb_light.ies using Guid(b92f175e530102d49bc7ed92c2c7cf18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3bd8258dd833f14c685fe4a318a0641a') in 0.0393994 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=da06b26f96ee8368fc225ea890f8d3a3 DependenciesID=a0e4eeffb010483f03aae09739631ef3 StaticDependenciesID=7b8a884276e7ebafb732b5ec2a11089f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.220298 seconds.
+  path: Assets/textures/Tree Stump/TreeEnd003_4K-JPG_Color.jpg
+  importAddress: Guid(97ae397e38d5e074fa931f45ab77f18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/Tree Stump/TreeEnd003_4K-JPG_Color.jpg using Guid(97ae397e38d5e074fa931f45ab77f18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bc16ad0ce24724873a0692aaf52305e6') in 0.0111195 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b0cd600eb5bdddba39d879a8799b449e DependenciesID=c751d4b56306af934fc6440263155c45 StaticDependenciesID=465dcad72025c4ace5b52b8d2bde33ff 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/textures/Tree Stump/TreeEnd003_4K-JPG_NormalDX.jpg
+  importAddress: Guid(61ba8a81a9ccd684683701e8fdc04d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/Tree Stump/TreeEnd003_4K-JPG_NormalDX.jpg using Guid(61ba8a81a9ccd684683701e8fdc04d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '37c76d0377169ef5e4787652f61c503b') in 0.0110884 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4e4347b105e16e6167358c3b3574170c DependenciesID=d15ed46ced6e7e211ee541c6ab91f500 StaticDependenciesID=eb2e28f23dfb40f8a4e2013000bdf765 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/textures/Tree Stump/TreeEnd003_4K-JPG_NormalGL.jpg
+  importAddress: Guid(ec448db395e857040903ffc52ef941cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/textures/Tree Stump/TreeEnd003_4K-JPG_NormalGL.jpg using Guid(ec448db395e857040903ffc52ef941cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '963acea46af335912ca574196c1373f9') in 0.0158695 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=459ab66ea5363f3060144b77bae343cf DependenciesID=40987f3537b2f3910b1623ed55ec1299 StaticDependenciesID=67051dc98cc5a262ca4cf29f2b661e8c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.371816 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  importAddress: Guid(bf72ddc15753d3d49b29dd2a1b26c9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png using Guid(bf72ddc15753d3d49b29dd2a1b26c9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ee9f85013bab545f4cf8f759b1e398e8') in 0.0119984 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4e896daebef9f76bfe6c5b829d3c87c8 DependenciesID=5651199dd9075d0e70e0daf10a770861 StaticDependenciesID=ed40bccfd24aed3f0349ad9baa6447cf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png
+  importAddress: Guid(7c95314ce62608b4e9483e3b7ae32d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png using Guid(7c95314ce62608b4e9483e3b7ae32d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c3a148ee5028b6ed42b924b8752c4ed2') in 0.0116167 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2a371023d6769877822212e6280eafdb DependenciesID=b6d559166b71929e97957529aaae82d4 StaticDependenciesID=19790488838f2101e9196fb2fbeca59a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr
+  importAddress: Guid(1c56e775a5efacc408130c2cdbe747dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr using Guid(1c56e775a5efacc408130c2cdbe747dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6112d4f159aacbec3dd8d102d661678c') in 0.0135613 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8d81962e418948e280facb99caa12b75 DependenciesID=ac382e36906cb1adaae4ba7ee946bafa StaticDependenciesID=41970584ef3ffc4ff2ff3ccce5a9d3e9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.113220 seconds.
+  path: Assets/Scenes/Room 1/Lightmap-1_comp_light.exr
+  importAddress: Guid(2cfdd7a1368847b49918c60699d260ba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Room 1/Lightmap-1_comp_light.exr using Guid(2cfdd7a1368847b49918c60699d260ba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a873b4ef56982fa080ed6ec61c17ff14') in 0.0408998 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fd821bba8904e3dff466cc91533d41d6 DependenciesID=22a904805ac44757430a821320c8a61f StaticDependenciesID=2f1750f5005556427d026c86c9f6cfe2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Scenes/Room 1/Lightmap-2_comp_dir.png
+  importAddress: Guid(7c95314ce62608b4e9483e3b7ae32d1a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Room 1/Lightmap-2_comp_dir.png using Guid(7c95314ce62608b4e9483e3b7ae32d1a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2dd022597afe092e2382798aa0dc9b2e') in 0.012394 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74c5f6f8fe15aa25015f020e18a54d4c DependenciesID=23927be605d14d66fa326d7f648a3093 StaticDependenciesID=bb7b2c4e0c874a03b4ed047ad0c517ee 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scenes/Room 1/Lightmap-2_comp_light.exr
+  importAddress: Guid(1c56e775a5efacc408130c2cdbe747dc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Room 1/Lightmap-2_comp_light.exr using Guid(1c56e775a5efacc408130c2cdbe747dc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '49a6904db2942d26dedfaeaba6bb7db7') in 0.0110154 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e7a07c34efc96005d4dbe64299ad3726 DependenciesID=5a735b53589d158a1b19b8f276e9b524 StaticDependenciesID=5c58cd46229a5b055e6e2b9274cf5c95 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

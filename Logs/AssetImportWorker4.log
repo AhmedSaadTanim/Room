@@ -294,3 +294,7 @@ Received Import Request.
 Start importing Assets/textures/Fabric023/Fabric023_4K-JPG_Color.jpg using Guid(eea5697c339d1a94e83e91f9c2461607) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '5b9b23f43258ea418090ab283fa94a52') in 0.0314275 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9bd846cfca27a7d695f1123627d72480 DependenciesID=72b354e13209362f047c66d2265581e0 StaticDependenciesID=04967bd269213fe8cafcf700bcb202a0 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
