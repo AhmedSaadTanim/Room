@@ -15,12 +15,12 @@ GameObject:
   - component: {fileID: -1704637018132048919}
   - component: {fileID: -3889614431986616537}
   - component: {fileID: -6397049191883074752}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &3838482589435828016
 Transform:
@@ -30,7 +30,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6321078951345033294}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -70,7 +70,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 585706ee9fd6f4e4ba6aef785f87fa69, type: 2}
+  - {fileID: 0}
   - {fileID: 2100000, guid: ba7824d325fa8c44dac63f623aa285de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -140,7 +140,7 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
 --- !u!114 &-3889614431986616537

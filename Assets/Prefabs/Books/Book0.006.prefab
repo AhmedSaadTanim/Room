@@ -15,12 +15,12 @@ GameObject:
   - component: {fileID: 4444975261014121635}
   - component: {fileID: 268332114085547873}
   - component: {fileID: 120922809486910371}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Book0.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &6562272737113567228
 Transform:
@@ -30,9 +30,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 499317584242326200}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -5.0712256e-15, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.9820952, y: 3.9933045, z: 2.7744863}
-  m_LocalScale: {x: 2.1532495, y: 2.1532495, z: 2.1532493}
+  m_LocalScale: {x: 2.1532497, y: 2.1532495, z: 2.153249}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -70,7 +70,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2fa02bf0429d7a74d900630d85851bac, type: 2}
+  - {fileID: 0}
   - {fileID: 2100000, guid: ba7824d325fa8c44dac63f623aa285de, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -140,7 +140,7 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 2
 --- !u!114 &268332114085547873
