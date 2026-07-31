@@ -29,4 +29,10 @@ public class BookSocketInteractor : XRSocketInteractor
     {
         return base.CanSelect(interactable) && IsAssigned(interactable);
     }
+    
+    protected override void OnSelectEntered(SelectEnterEventArgs args)
+    {
+        base.OnSelectEntered(args);
+        args.interactableObject.transform.GetComponent<CleanableObject>()?.MarkCleaned();
+    }
 }

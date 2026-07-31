@@ -9,22 +9,19 @@ public class CleanupProgressUI : MonoBehaviour
     {
         CleanupManager.Instance.OnProgressChanged += UpdateUI;
         CleanupManager.Instance.OnRoomCleaned += RoomCleaned;
-    }
-
-    private void RoomCleaned()
-    {
-        progressText.text =
-            "Books Organized\n\n✓ Room Cleaned!";
+        UpdateUI(0, 0);
     }
 
     private void OnDestroy()
     {
-        if (CleanupManager.Instance != null)
-            CleanupManager.Instance.OnProgressChanged -= UpdateUI;
+        if (CleanupManager.Instance == null) return;
+        CleanupManager.Instance.OnProgressChanged -= UpdateUI;
+        CleanupManager.Instance.OnRoomCleaned -= RoomCleaned;
     }
 
     private void UpdateUI(int cleaned, int total)
-    {
-        progressText.text = $"Books Organized\n{cleaned} / {total}";
-    }
+        => progressText.text = $"Objects out of place: {total - cleaned} / {total}";
+
+    private void RoomCleaned()
+        => progressText.text = "Room cleaned!";
 }
