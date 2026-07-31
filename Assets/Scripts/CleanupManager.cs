@@ -10,7 +10,9 @@ public class CleanupManager : MonoBehaviour
 
     private int cleanedObjects;
     private int totalObjects;
-
+    public int CleanedObjects => cleanedObjects;
+    public int TotalObjects => totalObjects;
+    
     private void Awake()
     {
         if (Instance != null && Instance != this)

@@ -9,7 +9,7 @@ public class CleanupProgressUI : MonoBehaviour
     {
         CleanupManager.Instance.OnProgressChanged += UpdateUI;
         CleanupManager.Instance.OnRoomCleaned += RoomCleaned;
-        UpdateUI(0, 0);
+        UpdateUI(CleanupManager.Instance.CleanedObjects, CleanupManager.Instance.TotalObjects);
     }
 
     private void OnDestroy()
