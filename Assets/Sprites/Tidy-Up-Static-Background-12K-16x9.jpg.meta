@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4f2ae0457c99d724ab6995e3d92c2e64
+guid: 7ad65e1da26b6ed44963a8b41baf68ad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 639116561514008619
-    second: Tidy-Up-Background-12K-16x9_0
+      213: 6497579663847691919
+    second: Tidy-Up-Static-Background-12K-16x9_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +54,7 @@ TextureImporter:
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
-  alphaUsage: 0
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationMethod: 0
   spriteTessellationDetail: -1
@@ -141,7 +141,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tidy-Up-Background-12K-16x9_0
+      name: Tidy-Up-Static-Background-12K-16x9_0
       rect:
         serializedVersion: 2
         x: 0
@@ -156,8 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b209c1360299ed800800000000000000
-      internalID: 639116561514008619
+      spriteID: f869173574a0c2a50800000000000000
+      internalID: 6497579663847691919
       vertices: []
       indices: 
       edges: []
