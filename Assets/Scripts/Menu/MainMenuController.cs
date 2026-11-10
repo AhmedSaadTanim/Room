@@ -31,9 +31,18 @@ public class MainMenuController : MonoBehaviour
                 break;
             
             case "Quit":
-                Application.Quit();
+                QuitGame();
                 break;
         }
+    }
+    
+    private static void QuitGame()
+    {
+        #if UNITY_EDITOR
+                UnityEditor.EditorApplication.isPlaying = false;
+        #else
+            Application.Quit();
+        #endif
     }
     
     public void CloseSettings()

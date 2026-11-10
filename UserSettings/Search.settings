@@ -9,7 +9,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.00000000" = "8;329.3333;545.3334;550.6667"
+	"picker_window_position_offset.00000000" = "-180;322;545.3334;550.6667"
 	"picker_visibility_flags.00000000" = "0"
 	"picker_item_size.00000000" = "32"
 	"picker_inspector.00000000" = "0"
@@ -94,6 +94,14 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"xri right interaction/"
+	"xri right i"
+	"xri right intera "
+	"xri right/tra"
+	"xri right"
+	"xri left/"
+	"xri"
+	"left inc"
 	"Pause"
 	"XRI Left interaction"
 	"move"
